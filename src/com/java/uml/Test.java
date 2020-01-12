@@ -16,7 +16,24 @@ public class Test {
         Student student3 = new Student(1002,"颜子皓",iPhone8);
 
 
-        Set<Student> students = new HashSet<>();
+        /*Set<Student> students = new HashSet<>();
+        students.add(student1);
+        students.add(student2);
+        students.add(student3);*/
+        //排序输出结果
+        Set<Student> students = new TreeSet<Student>(new Comparator<Student>() {
+            @Override
+            public int compare(Student o1, Student o2) {
+                if (o1 == o2){
+                    return 0;
+                }
+                int result = o1.getId() - o2.getId();
+                if (result == 0) {
+                    return o1.getStudentName().compareTo(o2.getStudentName());
+                }
+                return result;
+            }
+        });
         students.add(student1);
         students.add(student2);
         students.add(student3);

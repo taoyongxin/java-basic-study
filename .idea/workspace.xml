@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/test/CustomGenericsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/test/GenericsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/uml/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/uml/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/test/Generics.java" />
   </component>
-  <component name="RunManager" selected="Application.CustomGenericsTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CustomGenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.test.CustomGenericsTest" />
       <module name="java-student" />
@@ -112,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.CustomGenericsTest" />
         <item itemvalue="Application.GenericsTest" />
         <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578754890885</updated>
       <workItem from="1578754892252" duration="7689000" />
-      <workItem from="1578820949512" duration="4726000" />
+      <workItem from="1578820949512" duration="4893000" />
+      <workItem from="1578833772182" duration="440000" />
     </task>
     <servers />
   </component>
@@ -174,25 +174,25 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1578830140962">
+    <state width="1478" height="214" key="GridCell.Tab.0.bottom" timestamp="1578834179289">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140962" />
+    <state width="1478" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578834179289" />
     <state width="1478" height="205" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1578830140961">
+    <state width="1478" height="214" key="GridCell.Tab.0.center" timestamp="1578834179288">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
+    <state width="1478" height="214" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578834179288" />
     <state width="1478" height="205" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1578830140961">
+    <state width="1478" height="214" key="GridCell.Tab.0.left" timestamp="1578834179288">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
+    <state width="1478" height="214" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578834179288" />
     <state width="1478" height="205" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1578830140961">
+    <state width="1478" height="214" key="GridCell.Tab.0.right" timestamp="1578834179289">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
+    <state width="1478" height="214" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578834179289" />
     <state width="1478" height="205" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
     <state x="523" y="150" key="SettingsEditor" timestamp="1578762728942">
       <screen x="0" y="0" width="1536" height="864" />
