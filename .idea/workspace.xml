@@ -4,7 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="" />
+    <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/java/test/CustomGenericsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test/GenericsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WFopz9GspRu3En96tzemJu3Lqm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,6 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/test/Generics.java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,8 +55,35 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/test/Generics.java" />
   </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.CustomGenericsTest">
+    <configuration name="CustomGenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.test.CustomGenericsTest" />
+      <module name="java-student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.test.GenericsTest" />
+      <module name="java-student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.test.ListTest" />
       <module name="java-student" />
@@ -79,6 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomGenericsTest" />
+        <item itemvalue="Application.GenericsTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Test" />
       </list>
@@ -110,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578754890885</updated>
       <workItem from="1578754892252" duration="7689000" />
-      <workItem from="1578820949512" duration="599000" />
+      <workItem from="1578820949512" duration="4726000" />
     </task>
     <servers />
   </component>
@@ -118,45 +153,59 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="91" key="#Inspections" timestamp="1578821110955">
+    <state x="106" y="167" width="1290" height="630" key="#Inspections" timestamp="1578822548348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="91" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578821110955" />
+    <state x="106" y="167" width="1290" height="630" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822548348" />
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578754984969">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1578759620962">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1578829537374">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578829537374" />
     <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578759620962" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1578821518219">
+    <state x="-6" y="264" width="1336" height="640" key="DiffContextDialog" timestamp="1578822038462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578821518219" />
+    <state x="-6" y="264" width="1336" height="640" key="DiffContextDialog/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822038462" />
+    <state x="841" y="295" key="FileChooserDialogImpl" timestamp="1578822015807">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1578830140962">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140962" />
     <state width="1478" height="205" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1578821518218">
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1578830140961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578821518218" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
     <state width="1478" height="205" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1578821518216">
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1578830140961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578821518216" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
     <state width="1478" height="205" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1578821518219">
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1578830140961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578821518219" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578830140961" />
     <state width="1478" height="205" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
     <state x="523" y="150" key="SettingsEditor" timestamp="1578762728942">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="523" y="150" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578762728942" />
-    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1578759239161">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1578829353759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578829353759" />
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1578822298492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822298492" />
     <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578759239161" />
   </component>
 </project>
