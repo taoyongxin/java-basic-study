@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/test/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/test/LinkedListStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exercises/RandomNumberStorageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/uml/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-student/com/java/uml/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/uml/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-student/com/java/uml/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/test/Generics.java" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListStackTest">
+  <component name="RunManager" selected="Application.RandomNumberStorageTest">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.test.ArrayList" />
       <module name="java-student" />
@@ -88,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.test.GenericsTest" />
+    <configuration name="LinkedListStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.test.LinkedListStackTest" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.test.LinkedListStackTest" />
+    <configuration name="RandomNumberStorageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exercises.RandomNumberStorageTest" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.test.*" />
+          <option name="PATTERN" value="com.java.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNumberStorageTest" />
         <item itemvalue="Application.LinkedListStackTest" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.CustomGenericsTest" />
-        <item itemvalue="Application.GenericsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +161,8 @@
       <workItem from="1578754892252" duration="7689000" />
       <workItem from="1578820949512" duration="4893000" />
       <workItem from="1578833772182" duration="524000" />
-      <workItem from="1578890720076" duration="1633000" />
+      <workItem from="1578890720076" duration="1761000" />
+      <workItem from="1578899444230" duration="7183000" />
     </task>
     <servers />
   </component>
@@ -186,6 +183,10 @@
     </state>
     <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578829537374" />
     <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578759620962" />
+    <state x="0" y="50" key="CommitChangelistDialog2" timestamp="1578932454585">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="50" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578932454585" />
     <state x="-6" y="264" width="1336" height="640" key="DiffContextDialog" timestamp="1578822038462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -194,34 +195,35 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
-    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1578892342350">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1578932920752">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578892342350" />
-    <state width="1478" height="205" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1578892342350">
+    <state width="1493" height="393" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578916616221" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578932920752" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1578932920752">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578892342350" />
-    <state width="1478" height="205" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1578892342350">
+    <state width="1493" height="393" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578916616221" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578932920752" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1578932920752">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578892342350" />
-    <state width="1478" height="205" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
-    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1578892342350">
+    <state width="1493" height="393" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578916616221" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578932920752" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1578932920752">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578892342350" />
-    <state width="1478" height="205" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578764234110" />
+    <state width="1493" height="393" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578916616221" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578932920752" />
     <state x="523" y="150" key="SettingsEditor" timestamp="1578762728942">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="523" y="150" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578762728942" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1578891717024">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1578920049689">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578891717024" />
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578915989014" />
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578920049689" />
     <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1578822298492">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
