@@ -7,7 +7,7 @@ public class Test {
     public class Abc{
         private Abc(){
         };
-        Abc n1 = new Abc();
+        /*Abc n1 = new Abc();*/
     }
 
     public class A{
