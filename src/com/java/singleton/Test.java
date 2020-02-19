@@ -4,10 +4,10 @@ package com.java.singleton;
  * @author Tao
  */
 public class Test {
-    public class Abc{
+    private class Abc{
         private Abc(){
         };
-        /*Abc n1 = new Abc();*/
+        Abc n1 = new Abc();
     }
 
     public class A{

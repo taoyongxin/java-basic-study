@@ -17,6 +17,7 @@ public class ChocolateFactory {
         }
         return uniqueInstance;
     }
+
     public void fill(){
         if (empty){
             //添加巧克力牛奶原料动作
@@ -25,6 +26,7 @@ public class ChocolateFactory {
         }
         System.out.println("原料是否为空："+empty+",是否加热："+boiled);
     }
+
     public void drain(){
         if((!empty) && boiled){
             //排出巧克力动作
@@ -32,6 +34,7 @@ public class ChocolateFactory {
         }
         System.out.println("原料是否为空："+empty+",是否加热："+boiled);
     }
+
     public void boil(){
         if ((!empty) && (!boiled)){
             //煮沸
