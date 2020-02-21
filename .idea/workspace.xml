@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/AdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/MyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/MyInterface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/MyInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/proxy/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/proxy/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/proxy/UserDaoProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/proxy/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/IVoltage5V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Voltage220V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/VoltageAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/BookException/BookHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-student/com/java/BookException/BookHandlerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/factory/Customer.java" />
   </component>
-  <component name="RunManager" selected="Application.UserDaoTest">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.adapter.AdapterTest" />
       <module name="java-student" />
@@ -84,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.date.AddDateTime" />
+    <configuration name="BookHandlerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.BookException.BookHandlerTest" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.date.*" />
+          <option name="PATTERN" value="com.java.BookException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookHandlerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.BookException.BookHandlerTest" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.adapter1.Client" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.BookException.*" />
+          <option name="PATTERN" value="com.java.adapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.UserDaoTest" />
         <item itemvalue="Application.AdapterTest" />
         <item itemvalue="Application.BookHandlerTest" />
         <item itemvalue="Application.PutawayBookTest" />
-        <item itemvalue="Application.AddDateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +191,8 @@
       <workItem from="1582087433388" duration="2125000" />
       <workItem from="1582118108717" duration="4693000" />
       <workItem from="1582205658626" duration="1842000" />
+      <workItem from="1582208857206" duration="87000" />
+      <workItem from="1582276057486" duration="2387000" />
     </task>
     <servers />
   </component>
@@ -212,11 +209,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582205882992">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582276734741">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578829537374" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582205882992" />
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582276734741" />
     <state x="998" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582035282143">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -235,26 +232,26 @@
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581483990660" />
-    <state width="1478" height="212" key="GridCell.Tab.0.bottom" timestamp="1582208454895">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1582277504015">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1478" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582208454895" />
-    <state width="1478" height="212" key="GridCell.Tab.0.center" timestamp="1582208454895">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582277504015" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1582277504014">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1478" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582208454895" />
-    <state width="1478" height="212" key="GridCell.Tab.0.left" timestamp="1582208454895">
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582277504014" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1582277504014">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1478" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582208454895" />
-    <state width="1478" height="212" key="GridCell.Tab.0.right" timestamp="1582208454895">
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582277504014" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1582277504015">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1478" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582208454895" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582277504015" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1581753808756">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -292,10 +289,10 @@
     </state>
     <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581667535574" />
     <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582205678223" />
-    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582122057272">
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582276180346">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822298492" />
-    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582122057272" />
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582276180346" />
   </component>
 </project>
