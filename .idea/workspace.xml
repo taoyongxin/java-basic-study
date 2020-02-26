@@ -5,12 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/IVoltage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter1/VoltageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/ObjectAdapter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/builder/BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/CaramelCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/DecoratorPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/DeicingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/HotDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/AsusComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/HpComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/LenovoComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/observer/ConCrateIdol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/observer/ConCreateFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Idol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/MultiClientServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/BuilderPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/AdapterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/IVoltage5V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Voltage220V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/VoltageAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/AdapterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyInterface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyInterface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/IVoltage5V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/IVoltage5V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Voltage220V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Voltage220V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/VoltageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/VoltageAdapter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +95,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/factory/Customer.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/test2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,16 +105,26 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/factory/Customer.java" />
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.adapter.AdapterTest" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\decorate\test1" />
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\adapter\ClassAdapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\test2" />
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\decorate\test1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.builder.BuilderPattern" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.adapter.*" />
+          <option name="PATTERN" value="com.java.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookHandlerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.BookException.BookHandlerTest" />
+    <configuration name="BuilderPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.test2.BuilderPatternTest" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.BookException.*" />
+          <option name="PATTERN" value="com.java.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.adapter1.Client" />
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Client1" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.adapter1.*" />
+          <option name="PATTERN" value="com.java.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PutawayBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.test1.PutawayBookTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.factory.Main" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.test1.*" />
+          <option name="PATTERN" value="com.java.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.proxy.UserDaoTest" />
+    <configuration name="Server1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Server1" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.proxy.*" />
+          <option name="PATTERN" value="com.java.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.UserDaoTest" />
-        <item itemvalue="Application.AdapterTest" />
-        <item itemvalue="Application.BookHandlerTest" />
-        <item itemvalue="Application.PutawayBookTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Server1" />
+        <item itemvalue="Application.BuilderPattern" />
+        <item itemvalue="Application.BuilderPatternTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +245,16 @@
       <workItem from="1582118108717" duration="4693000" />
       <workItem from="1582205658626" duration="1842000" />
       <workItem from="1582208857206" duration="87000" />
-      <workItem from="1582276057486" duration="2387000" />
+      <workItem from="1582276057486" duration="5465000" />
+      <workItem from="1582291920859" duration="3699000" />
+      <workItem from="1582377213205" duration="1990000" />
+      <workItem from="1582380152501" duration="26000" />
+      <workItem from="1582381619912" duration="16000" />
+      <workItem from="1582430389042" duration="2000" />
+      <workItem from="1582616068896" duration="4278000" />
+      <workItem from="1582683902626" duration="2563000" />
+      <workItem from="1582688176860" duration="9000" />
+      <workItem from="1582688366298" duration="4043000" />
     </task>
     <servers />
   </component>
@@ -200,24 +262,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="106" y="167" width="1290" height="630" key="#Inspections" timestamp="1580126308607">
+    <state x="106" y="167" width="1290" height="630" key="#Inspections" timestamp="1582690027431">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="106" y="167" width="1290" height="630" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578973711542" />
+    <state x="106" y="167" width="1290" height="630" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582690027431" />
     <state x="106" y="167" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1580126308607" />
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578754984969">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582276734741">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582689855682">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578829537374" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582276734741" />
-    <state x="998" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582035282143">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582689855682" />
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582377692550" />
+    <state x="284" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582294595606">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="998" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582035282143" />
+    <state x="284" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582294595606" />
     <state x="0" y="50" key="CommitChangelistDialog2" timestamp="1578932454585">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -232,49 +294,54 @@
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581483990660" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1582277504015">
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom" timestamp="1582693323984">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582277504015" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1582277504014">
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1478" height="235" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582379930912" />
+    <state width="1493" height="196" key="GridCell.Tab.0.center" timestamp="1582693323984">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582277504014" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1582277504014">
+    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1478" height="235" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582379930911" />
+    <state width="1493" height="196" key="GridCell.Tab.0.left" timestamp="1582693323983">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582277504014" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1582277504015">
+    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323983" />
+    <state width="1478" height="235" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582379930911" />
+    <state width="1493" height="196" key="GridCell.Tab.0.right" timestamp="1582693323984">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581598887773" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582277504015" />
-    <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1581753808756">
+    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1478" height="235" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582379930912" />
+    <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1582686467060">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1493" height="317" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582686467060" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581753808756" />
-    <state width="1493" height="317" key="GridCell.Tab.1.center" timestamp="1581753808756">
+    <state width="1493" height="317" key="GridCell.Tab.1.center" timestamp="1582686467059">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1493" height="317" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582686467059" />
     <state width="1493" height="317" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1581753808756" />
-    <state width="1493" height="317" key="GridCell.Tab.1.left" timestamp="1581753808756">
+    <state width="1493" height="317" key="GridCell.Tab.1.left" timestamp="1582686467059">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1493" height="317" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582686467059" />
     <state width="1493" height="317" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1581753808756" />
-    <state width="1493" height="317" key="GridCell.Tab.1.right" timestamp="1581753808756">
+    <state width="1493" height="317" key="GridCell.Tab.1.right" timestamp="1582686467060">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1493" height="317" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582686467060" />
     <state width="1493" height="317" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1581753808756" />
     <state x="537" y="143" key="RollbackChangesDialog" timestamp="1581947046642">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="537" y="143" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1581947046642" />
-    <state x="289" y="105" key="SettingsEditor" timestamp="1578934041722">
+    <state x="384" y="83" key="SettingsEditor" timestamp="1582686446051">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="384" y="83" key="SettingsEditor/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582686446051" />
     <state x="289" y="105" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578934041722" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1578974015355">
       <screen x="0" y="0" width="1536" height="864" />
@@ -284,11 +351,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="178" y="43" key="new project wizard/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1579070826152" />
-    <state x="426" y="198" key="run.anything.popup" timestamp="1582205678223">
+    <state x="426" y="198" key="run.anything.popup" timestamp="1582684599103">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1581667535574" />
-    <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582205678223" />
+    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582684599103" />
+    <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582293400304" />
     <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582276180346">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
