@@ -5,55 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/adapter/ObjectAdapter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/builder/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/CaramelCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/CoffeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/DecoratorPatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/DeicingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/HotDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/decorate/test1/LatteCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/AsusComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/HpComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/LenovoComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/observer/ConCrateIdol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/observer/ConCreateFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Idol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/observer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/MultiClientServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/test2/BuilderPatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/AdapterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyInterface1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter/MyInterface2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/IVoltage5V.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/Voltage220V.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/adapter1/VoltageAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/AdapterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyInterface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter/MyInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/Adapter/MyInterface2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/IVoltage5V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/IVoltage5V.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/Voltage220V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/Voltage220V.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/adapter1/VoltageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/adapter/ClassAdapter/VoltageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/socket/Client1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-student/com/java/socket/Client1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/socket/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/socket/Client1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,35 +77,9 @@
       <recent name="F:\dev\SpringBoot\java-student\src\com\java\decorate\test1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.builder.BuilderPattern" />
-      <module name="java-student" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BuilderPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.test2.BuilderPatternTest" />
-      <module name="java-student" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.test2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.socket.Client1" />
+  <component name="RunManager" selected="Application.Client3">
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Client2" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
@@ -158,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.factory.Main" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Client3" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.factory.*" />
+          <option name="PATTERN" value="com.java.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,8 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.socket.Server1" />
+    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Server2" />
+      <module name="java-student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Server3" />
+      <module name="java-student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.socket.Server4" />
       <module name="java-student" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.Server1" />
-        <item itemvalue="Application.BuilderPattern" />
-        <item itemvalue="Application.BuilderPatternTest" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Server4" />
+        <item itemvalue="Application.Server3" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Server2" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +213,9 @@
       <workItem from="1582616068896" duration="4278000" />
       <workItem from="1582683902626" duration="2563000" />
       <workItem from="1582688176860" duration="9000" />
-      <workItem from="1582688366298" duration="4043000" />
+      <workItem from="1582688366298" duration="4228000" />
+      <workItem from="1582697895796" duration="10543000" />
+      <workItem from="1582716775929" duration="1419000" />
     </task>
     <servers />
   </component>
@@ -271,11 +232,15 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582689855682">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582717422269">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582689855682" />
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582717422269" />
     <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582377692550" />
+    <state x="778" y="147" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582703545215">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="778" y="147" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582703545215" />
     <state x="284" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582294595606">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -294,25 +259,25 @@
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581483990660" />
-    <state width="1493" height="196" key="GridCell.Tab.0.bottom" timestamp="1582693323984">
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1582718195694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582718195694" />
     <state width="1478" height="235" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582379930912" />
-    <state width="1493" height="196" key="GridCell.Tab.0.center" timestamp="1582693323984">
+    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1582718195694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582718195694" />
     <state width="1478" height="235" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582379930911" />
-    <state width="1493" height="196" key="GridCell.Tab.0.left" timestamp="1582693323983">
+    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1582718195694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323983" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582718195694" />
     <state width="1478" height="235" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582379930911" />
-    <state width="1493" height="196" key="GridCell.Tab.0.right" timestamp="1582693323984">
+    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1582718195694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582693323984" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582718195694" />
     <state width="1478" height="235" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582379930912" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1582686467060">
       <screen x="0" y="0" width="1536" height="864" />
@@ -351,15 +316,15 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="178" y="43" key="new project wizard/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1579070826152" />
-    <state x="426" y="198" key="run.anything.popup" timestamp="1582684599103">
+    <state x="426" y="198" key="run.anything.popup" timestamp="1582702720533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582684599103" />
+    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582702720533" />
     <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582293400304" />
-    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582276180346">
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582717703659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822298492" />
+    <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582717703659" />
     <state x="1028" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582276180346" />
   </component>
 </project>

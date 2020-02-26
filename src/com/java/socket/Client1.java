@@ -14,5 +14,6 @@ public class Client1 {
         client = new Socket("127.0.0.1",10086);
         System.out.println("成功连接上服务器");
         // 关闭Socket
+        client.close();
     }
 }
