@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionAndThread/ExceptionAndThread.iml" filepath="$PROJECT_DIR$/ExceptionAndThread/ExceptionAndThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-student.iml" filepath="$PROJECT_DIR$/java-student.iml" />
     </modules>
   </component>
