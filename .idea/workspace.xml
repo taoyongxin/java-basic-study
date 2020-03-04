@@ -5,40 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/ExceptionAndThread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo01/Thread/Demo01MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo01/Thread/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo02/Thread/Demo02Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo02/Thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo03/getName/Demo03GetThreadName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo03/getName/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo04/setName/Demo04SetThreadName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo04/setName/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo05/sleep/Demo01Sleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo06/Runnable/Demo01Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo06/Runnable/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo07/InnerClassThread/Demo01InnerClassThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Client6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Clinet5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server4s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/Server7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/socket/ServerThread7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/thread/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/thread/ClockThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/thread/TimerTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/thread/TimerTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/thread/TimerTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo08/ThreadSafa/Demo01Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo08/ThreadSafa/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo09/ThreadSafe/Demo01Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo09/ThreadSafe/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo10/Synchronized/Demo01Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo10/Synchronized/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo11/Synchronized/Demo01Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo11/Synchronized/RunnableImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/socket/Server4$ServerThread4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-student/com/java/socket/Server4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-student/com/java/socket/Server4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/socket/Server4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/socket/Server4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/socket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo11/Synchronized" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,18 +70,20 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/java/factory/Customer.java" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\dev\SpringBoot\java-student\src\com\java\socket" />
-      <recent name="F:\dev\SpringBoot\java-student\src\com\java\test2" />
-      <recent name="F:\dev\SpringBoot\java-student\src\com\java\decorate\test1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\dev\SpringBoot\java-student\src\com\java\socket" />
       <recent name="F:\dev\SpringBoot\java-student\src\com\java\decorate\test1" />
       <recent name="F:\dev\SpringBoot\java-student\src\com\java\adapter\ClassAdapter" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\SpringBoot\java-student\ExceptionAndThread\src\com\java\demo11\Synchronized" />
+      <recent name="F:\dev\SpringBoot\java-student\ExceptionAndThread\src\com\java\demo10\Synchronized" />
+      <recent name="F:\dev\SpringBoot\java-student\ExceptionAndThread\src\com\java\demo09\ThreadSafe" />
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\socket" />
+      <recent name="F:\dev\SpringBoot\java-student\src\com\java\test2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo01InnerClassThread">
+  <component name="RunManager" selected="Application.Demo01Ticket (3)">
     <configuration name="Demo01InnerClassThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.demo07.InnerClassThread.Demo01InnerClassThread" />
       <module name="ExceptionAndThread" />
@@ -120,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Runnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo06.Runnable.Demo01Runnable" />
+    <configuration name="Demo01Ticket (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo09.ThreadSafe.Demo01Ticket" />
       <module name="ExceptionAndThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo06.Runnable.*" />
+          <option name="PATTERN" value="com.java.demo09.ThreadSafe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Sleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo05.sleep.Demo01Sleep" />
+    <configuration name="Demo01Ticket (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo10.Synchronized.Demo01Ticket" />
       <module name="ExceptionAndThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo05.sleep.*" />
+          <option name="PATTERN" value="com.java.demo10.Synchronized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03GetThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo03.getName.Demo03GetThreadName" />
+    <configuration name="Demo01Ticket (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo11.Synchronized.Demo01Ticket" />
       <module name="ExceptionAndThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo03.getName.*" />
+          <option name="PATTERN" value="com.java.demo11.Synchronized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04SetThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo04.setName.Demo04SetThreadName" />
+    <configuration name="Demo01Ticket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo08.ThreadSafa.Demo01Ticket" />
       <module name="ExceptionAndThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo04.setName.*" />
+          <option name="PATTERN" value="com.java.demo08.ThreadSafa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Ticket (3)" />
+        <item itemvalue="Application.Demo01Ticket (2)" />
+        <item itemvalue="Application.Demo01Ticket (1)" />
+        <item itemvalue="Application.Demo01Ticket" />
         <item itemvalue="Application.Demo01InnerClassThread" />
-        <item itemvalue="Application.Demo01Runnable" />
-        <item itemvalue="Application.Demo01Sleep" />
-        <item itemvalue="Application.Demo04SetThreadName" />
-        <item itemvalue="Application.Demo03GetThreadName" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +229,9 @@
       <workItem from="1583070133012" duration="3668000" />
       <workItem from="1583157764539" duration="2552000" />
       <workItem from="1583199981570" duration="1849000" />
-      <workItem from="1583242022479" duration="2590000" />
+      <workItem from="1583242022479" duration="5365000" />
+      <workItem from="1583285191638" duration="601000" />
+      <workItem from="1583334069482" duration="1704000" />
     </task>
     <servers />
   </component>
@@ -269,10 +248,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583243289277">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583246633038">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583243289277" />
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583246633038" />
     <state x="205" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583161830654" />
     <state x="778" y="147" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582703545215">
       <screen x="0" y="0" width="1536" height="864" />
@@ -300,25 +279,25 @@
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581483990660" />
-    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1583244667779">
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom" timestamp="1583336003196">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583244667779" />
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583336003196" />
     <state width="1493" height="142" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1583244667779">
+    <state width="1493" height="434" key="GridCell.Tab.0.center" timestamp="1583336003196">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583244667779" />
+    <state width="1493" height="434" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583336003196" />
     <state width="1493" height="142" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1583244667779">
+    <state width="1493" height="434" key="GridCell.Tab.0.left" timestamp="1583336003196">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583244667779" />
+    <state width="1493" height="434" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583336003196" />
     <state width="1493" height="142" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1583244667779">
+    <state width="1493" height="434" key="GridCell.Tab.0.right" timestamp="1583336003196">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583244667779" />
+    <state width="1493" height="434" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583336003196" />
     <state width="1493" height="142" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1582880822370">
       <screen x="0" y="0" width="1536" height="864" />
@@ -358,10 +337,10 @@
     </state>
     <state x="178" y="43" key="new project wizard/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1579070826152" />
     <state x="209" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1583157912349" />
-    <state x="426" y="198" key="run.anything.popup" timestamp="1583244612017">
+    <state x="426" y="198" key="run.anything.popup" timestamp="1583334120825">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583244612017" />
+    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583334120825" />
     <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582293400304" />
     <state x="1029" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1583242705412">
       <screen x="0" y="0" width="1536" height="864" />
