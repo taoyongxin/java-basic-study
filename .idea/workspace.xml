@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9b2114-54d7-4bb8-be57-ec1e419e2d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo12/Lock/Demo01Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo12/Lock/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/Demo01WaitAndNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/Demo02WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/src/BaoZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/src/BaoZiPu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/src/ChiHuo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionAndThread/src/com/java/demo13/WaitAndNotify/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadAndLambda/ThreadAndLambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadAndLambda/src/com/java/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadAndLambda/src/com/java/demo01/ThreadPool/Demo01ThreadPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadAndLambda/src/com/java/demo01/ThreadPool/RunnableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,13 +85,13 @@
       <recent name="F:\dev\SpringBoot\java-student\src\com\java\adapter\ClassAdapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo02WaitAndNotify">
-    <configuration name="Demo01Ticket (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo10.Synchronized.Demo01Ticket" />
+  <component name="RunManager" selected="Application.Demo01ThreadPoll">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo13.WaitAndNotify.src.Demo" />
       <module name="ExceptionAndThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo10.Synchronized.*" />
+          <option name="PATTERN" value="com.java.demo13.WaitAndNotify.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Ticket (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.demo11.Synchronized.Demo01Ticket" />
-      <module name="ExceptionAndThread" />
+    <configuration name="Demo01ThreadPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.demo01.ThreadPool.Demo01ThreadPoll" />
+      <module name="ThreadAndLambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.demo11.Synchronized.*" />
+          <option name="PATTERN" value="com.java.demo01.ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01ThreadPoll" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Demo02WaitAndNotify" />
         <item itemvalue="Application.Demo01WaitAndNotify" />
         <item itemvalue="Application.Demo01Ticket (4)" />
-        <item itemvalue="Application.Demo01Ticket (3)" />
-        <item itemvalue="Application.Demo01Ticket (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +236,7 @@
       <workItem from="1583334069482" duration="1924000" />
       <workItem from="1583370390600" duration="1778000" />
       <workItem from="1583588973169" duration="2001000" />
+      <workItem from="1583636952765" duration="6047000" />
     </task>
     <servers />
   </component>
@@ -237,19 +244,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="106" y="167" width="1290" height="630" key="#Inspections" timestamp="1582690027431">
+    <state x="47" y="207" width="1290" height="630" key="#Inspections" timestamp="1583654218251">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="106" y="167" width="1290" height="630" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1582690027431" />
+    <state x="47" y="207" width="1290" height="630" key="#Inspections/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583654218251" />
     <state x="106" y="167" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1580126308607" />
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578754984969">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578754984969" />
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583246633038">
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583653888769">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583246633038" />
+    <state x="731" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583653888769" />
     <state x="205" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583161830654" />
     <state x="778" y="147" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582703545215">
       <screen x="0" y="0" width="1536" height="864" />
@@ -277,25 +284,25 @@
     </state>
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578822015807" />
     <state x="841" y="295" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581483990660" />
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1583590886496">
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom" timestamp="1583654227898">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583590886496" />
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583654227898" />
     <state width="1493" height="142" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1583590886496">
+    <state width="1493" height="331" key="GridCell.Tab.0.center" timestamp="1583654227898">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583590886496" />
+    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583654227898" />
     <state width="1493" height="142" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1583590886496">
+    <state width="1493" height="331" key="GridCell.Tab.0.left" timestamp="1583654227898">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583590886496" />
+    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583654227898" />
     <state width="1493" height="142" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
-    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1583590886496">
+    <state width="1493" height="331" key="GridCell.Tab.0.right" timestamp="1583654227898">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583590886496" />
+    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583654227898" />
     <state width="1493" height="142" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583163745342" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1582880822370">
       <screen x="0" y="0" width="1536" height="864" />
@@ -330,15 +337,15 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1578974015355" />
-    <state x="209" y="42" key="new project wizard" timestamp="1583157912349">
+    <state x="178" y="43" key="new project wizard" timestamp="1583653003837">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="178" y="43" key="new project wizard/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1579070826152" />
+    <state x="178" y="43" key="new project wizard/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583653003837" />
     <state x="209" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1583157912349" />
-    <state x="426" y="198" key="run.anything.popup" timestamp="1583371395332">
+    <state x="426" y="198" key="run.anything.popup" timestamp="1583637618325">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583371395332" />
+    <state x="426" y="198" key="run.anything.popup/0.0.1536.864/1920.0.1680.1050@0.0.1536.864" timestamp="1583637618325" />
     <state x="426" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582293400304" />
     <state x="1029" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1583589649884">
       <screen x="0" y="0" width="1536" height="864" />
